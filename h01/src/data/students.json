@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Hoang Duc Khanh",
+    "age": 22,
+    "birthday": "2000",
+    "avatar": "avatar1.jpg",
+    "address": "Lam Dong"
+  },
+  {
+    "name": "Hoang Khanh Duc",
+    "age": 23,
+    "birthday": "1999",
+    "avatar": "avatar2.jpg",
+    "address": "Dak Lak"
+  },
+  {
+    "name": "Khanh Hoang Duc",
+    "age": 24,
+    "birthday": "1998",
+    "avatar": "avatar3.jpg",
+    "address": "Dong Nai"
+  },
+  {
+    "name": "Duc Khanh Hoang",
+    "age": 19,
+    "birthday": "2003",
+    "avatar": "avatar4.jpg",
+    "address": "Lam Dong"
+  },
+  {
+    "name": "Duc Hoang Khanh",
+    "age": 18,
+    "birthday": "2004",
+    "avatar": "avatar5.jpg",
+    "address": "Lam Dong"
+  }
+]
