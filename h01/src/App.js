@@ -1,14 +1,12 @@
-import React from 'react'
 import './App.css';
-import students from './data/students.json'
-import Student from "./components/Student";
+import Layout from './components/Layout'
 
 function App() {
-    return (
-        <div className="container">
-            <Student students={students}/>
-        </div>
-    )
+  return (
+    <div className="App">
+      <Layout/>
+    </div>
+  );
 }
 
 export default App;
